@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors -->
+    <color name="card_background">#ff303030</color>
+    <color name="switchbar_background_color">#ff424242</color>
+    <color name="switch_accent_color">#ff607d8b</color>
+    <color name="running_processes_apps_ram">#ff607d8b</color>
+    <color name="memory_normal">#ff607d8b</color>
+    <color name="memory_max_use">#ff607d8b</color>
+
+    <!-- Custom colors -->
+    <color name="storage_summary_title_color">#ff607d8b</color>
+    <color name="action_picker_fab_background">#ff607d8b</color>
+
+    <!-- Expanded desktop -->
+    <color name="text_color_black">#ffffffff</color>
+    <drawable name="expanded_item_bg_activated">#ff303030</drawable>
+    <drawable name="expanded_item_bg">#ff303030</drawable>
+    <color name="expanded_button_color_normal">#ff607d8b</color>
+    <color name="expanded_button_color_close">#ff607d8b</color>
+</resources>

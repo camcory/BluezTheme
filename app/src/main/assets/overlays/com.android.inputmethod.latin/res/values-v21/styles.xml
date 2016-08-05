@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="platformSettingsTheme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#ff607d8b</item>
+        <item name="android:colorPrimaryDark">#ff607d8b</item>
+        <item name="android:colorAccent">#ff607d8b</item>
+    </style>
+
+</resources>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Contacts -->
+    <style name="DetailActivityTheme" parent="@android:style/Theme.Material" />
+
+    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />
+
+    <style name="PeopleTheme1" parent="@android:style/Theme.Material">
+        <item name="android:statusBarColor">#ff607d8b</item>
+        <item name="android:textColorPrimary">#ffffff</item>
+    </style>
+
+     <style name="ContactsActionBarTitleText"
+            parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+     <style name="ContactsActionBarTabTextStyle"
+            parent="android:style/Widget.Material.ActionBar.TabText">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:elevation">0dp</item>
+    </style>
+
+    <style name="ContactsActionBarTheme" parent="@android:style/Theme.Material">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+     <style name="ContactEditorAccountsChangedActivityTheme"
+            parent="@android:style/Theme.Material.Dialog.NoActionBar.MinWidth">
+        <item name="android:textColorPrimary">#ffffff</item>
+        <item name="android:textColorSecondary">#ffffff</item>
+    </style>
+
+    <style name="SectionDivider">
+        <item name="android:background">#00000000</item>
+    </style>
+
+    <style name="PeopleNavigationDropDownTextAppearance">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="NonPhoneDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+
+    <style name="ConfirmAddDetailDialogTheme" parent="@android:style/Theme.Material.Dialog.MinWidth" />
+
+    <style name="ContactsAlertDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+
+    <!-- Contacts Common -->
+    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="ListViewStyle" parent="@android:style/Widget.Material.ListView" />
+
+    <style name="ContactListFilterTheme" parent="@android:Theme.Material">
+        <item name="android:statusBarColor">#ff607d8b</item>
+    </style>
+
+    <style name="CustomContactListFilterView" parent="ContactListFilterTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:statusBarColor">#ff607d8b</item>
+    </style>
+</resources>

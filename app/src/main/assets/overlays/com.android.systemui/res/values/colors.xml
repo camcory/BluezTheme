@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="system_primary_color">#ff303030</color>
+    <color name="system_secondary_color">#ff303030</color>
+    <color name="system_accent_color">#ff607d8b</color>
+    <color name="qs_tile_text">#ffffffff</color>
+    <color name="qs_detail_progress_track">#ffffffff</color>
+    <color name="notification_legacy_background_color">#ff303030</color>
+    <color name="notification_material_background_color">#ff303030</color>
+    <color name="notification_material_background_dimmed_color">#ff303030</color>
+    <color name="notification_material_background_low_priority_color">#ff303030</color>
+    <color name="notification_material_background_media_default_color">#ff303030</color>
+    <color name="notification_ripple_untinted_color">#28607d8b</color>
+    <color name="notification_ripple_color_low_priority">#30607d8b</color>
+
+    <!-- PopupWindows -->
+    <color name="smartbar_editor_popup_background">#ff303030</color>
+    <color name="smartbar_editor_popup_text">#ffffffff</color>
+    <color name="smartbar_editor_popup_icon_fill">#ff607d8b</color>
+    <color name="smartbar_editor_popup_horiz_separator">#ff607d8b</color>
+</resources>

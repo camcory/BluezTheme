@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Telecomm.Transparent" parent="@android:style/Theme.Material" />
+
+    <style name="Theme.Telecom.DialerSettings" parent="@android:style/Theme.Material">
+        <item name="android:actionBarStyle">@style/TelecomDialerSettingsActionBarStyle</item>
+        <item name="android:actionOverflowButtonStyle">@style/TelecomDialerSettingsActionOverflowButtonStyle</item>
+        <item name="android:colorPrimaryDark">#ff303030</item>
+        <item name="android:statusBarColor">#ff607d8b</item>
+    </style>
+
+    <style name="TelecomDialerSettingsActionBarStyle" parent="android:Widget.Material.ActionBar">
+        <item name="android:background">#ff607d8b</item>
+        <item name="android:titleTextStyle">@style/TelecomDialerSettingsActionBarTitleText</item>
+    </style>
+
+    <style name="TelecomDialerSettingsActionBarTitleText"
+            parent="@android:style/TextAppearance.Material.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="TelecomDialerSettingsActionOverflowButtonStyle"
+            parent="@android:style/Widget.Material.ActionButton.Overflow" />
+</resources>

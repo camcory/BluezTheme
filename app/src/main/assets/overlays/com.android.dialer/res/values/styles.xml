@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dialer -->
+    <style name="DialtactsTheme1" parent="@android:style/Theme.Material">
+        <item name="android:statusBarColor">#ff607d8b</item>
+        <item name="android:colorControlActivated">#ff607d8b</item>
+    </style>
+
+    <style name="SettingsStyle" parent="@android:style/Theme.Material">
+        <item name="android:statusBarColor">#ff607d8b</item>
+        <item name="android:colorPrimary">#ff607d8b</item>
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:textColorSecondary">#ffffff</item>
+        <item name="android:colorAccent">#ff607d8b</item>
+        <item name="android:textColorLink">#ffffff</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog" />
+
+    <!-- Contacts Common -->
+    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">16.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+
+    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />
+</resources>

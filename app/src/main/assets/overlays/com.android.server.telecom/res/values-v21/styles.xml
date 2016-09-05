@@ -3,4 +3,10 @@
     <style name="Theme.Telecom.DialerSettings" parent="@android:style/Theme.Material">
         <item name="android:statusBarColor">#ff607d8b</item>
     </style>
+
+    <style name="Theme.Telecom.BlockedNumbers" parent="@android:style/Theme.Material">
+        <item name="android:statusBarColor">#ff607d8b</item>
+        <item name="android:colorPrimaryDark">#ff303030</item>
+        <item name="android:colorAccent">#ff607d8b</item>
+    </style>
 </resources>

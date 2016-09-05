@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Dialer -->
+
     <style name="Platform.AppCompat" parent="@android:style/Theme.Material">
         <item name="android:colorForeground">#303030</item>
         <item name="android:colorBackground">#303030</item>
@@ -23,26 +23,6 @@
         <item name="android:textColorTertiary">#ffffff</item>
     </style>
 
-    <style name="AlertDialogTheme" parent="@android:style/Theme.Material.Dialog">
-        <item name="android:colorBackground">@android:color/background_dark</item>
-    </style>
+    <style name="Base.Widget.AppCompat.Light.PopupMenu" parent="@android:style/Widget.Material.PopupMenu" />
 
-    <style name="ListViewStyle" parent="@android:style/Widget.Material.ListView" />
-
-    <style name="ContactListFilterTheme" parent="@android:style/Theme.Holo">
-        <item name="android:listViewStyle">@style/ListViewStyle</item>
-    </style>
-
-    <!-- Contacts Common -->
-    <style name="TextAppearanceMedium" parent="@android:style/TextAppearance.Medium">
-        <item name="android:textSize">16.0sp</item>
-        <item name="android:textColor">#ffffff</item>
-    </style>
-
-    <style name="TextAppearanceSmall" parent="@android:style/TextAppearance.Small">
-        <item name="android:textSize">14.0sp</item>
-        <item name="android:textColor">#ffffff</item>
-    </style>
-
-    <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />
 </resources>

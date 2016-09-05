@@ -4,4 +4,9 @@
     <color name="dialer_settings_actionbar_text_color">#ffffff</color>
     <color name="dialer_settings_actionbar_background_color">#ff607d8b</color>
     <color name="dialer_settings_color_dark">#ff607d8b</color>
+
+    <color name="blocked_numbers_divider_color">#303030</color>
+    <color name="blocked_numbers_butter_bar_color">#303030</color>
+    <color name="blocked_numbers_title_text_color">#baffffff</color>
+    <color name="blocked_numbers_secondary_text_color">#89ffffff</color>
 </resources>

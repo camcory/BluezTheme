@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Custom dimens -->
-    <dimen name="notification_header_side_padding">4dp</dimen>
-    <dimen name="qs_panel_side_padding">8dp</dimen>
-    <dimen name="notification_header_elevation">0dp</dimen>
-
     <!-- Margin on the left side of the battery % in the header. -->
-    <dimen name="header_battery_margin_expanded">1dp</dimen>
+    <dimen name="header_battery_margin_expanded">4dp</dimen>
 
     <!-- Margin on the left side of the battery % when on Keyguard. -->
-    <dimen name="header_battery_margin_keyguard">1dp</dimen>
+    <dimen name="header_battery_margin_keyguard">4dp</dimen>
 </resources>

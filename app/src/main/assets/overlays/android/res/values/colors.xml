@@ -2,9 +2,15 @@
 <resources>
     <!-- Colors -->
     <color name="transparent">#00000000</color>
-    <color name="notification_icon_bg_color">#ffffffff</color>
-    <color name="notification_action_color_filter">#ffffffff</color>
-    <color name="system_notification_accent_color">#ff607d8b</color>
+    <drawable name="notification_template_icon_bg">#ff303030</drawable>
+    <drawable name="notification_template_icon_low_bg">#ff303030</drawable>
+    <drawable name="notification_template_divider_media">#29303030</drawable>
+    <color name="notification_material_background_color">#ff303030</color>
+    <color name="notification_default_color">#ff303030</color>
+    <color name="notification_icon_default_color">#ff607d8b</color>
+    <color name="notification_progress_background_color">#ff303030</color>
+    <color name="notification_action_list">#ff303030</color>
+    <color name="system_notification_accent_color">#ffffffff</color>
     <color name="chooser_service_row_background_color">#ff303030</color>
 
     <!-- Colors material -->
@@ -16,9 +22,9 @@
     <color name="material_deep_teal_500">#ff607d8b</color>
 
     <!-- Exposed colors -->
-    <color name="notification_mtrl_action_textcolor">#ffffffff</color>
-    <color name="notification_mtrl_big_picture_bg">#ff303030</color>
     <color name="resolver_list_bg">#ff303030</color>
-    <color name="chooser_grid_bg">#ff303030</color>
     <color name="app_permission_icon_tint">#ffffffff</color>
+    <color name="immersive_cling_bg_color">#ff303030</color>
+    <color name="notification_text_default_color">#ffffffff</color>
+    <color name="sender_text_color">#ffffffff</color>
 </resources>

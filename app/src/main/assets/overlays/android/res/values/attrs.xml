@@ -4,9 +4,7 @@
     <attr name="windowNoTitle" format="boolean" />
     <attr name="windowBackground" format="reference" />
     <attr name="backgroundDimEnabled" format="boolean" />
-    <attr name="windowTranslucentStatus" format="boolean" />
-    <attr name="windowTranslucentNavigation" format="boolean" />
-    <attr name="windowDrawsSystemBarBackgrounds" format="boolean" />
+    <attr name="statusBarColor" format="color" />
     <attr name="windowContentOverlay" format="reference" />
     <attr name="textColor" format="reference|color" />
 </resources>

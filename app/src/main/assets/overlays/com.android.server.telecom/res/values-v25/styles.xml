@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Telecom.DialerSettings" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#ff607d8b</item>
+        <item name="android:colorPrimaryDark">#ff607d8b</item>
+        <item name="android:colorAccent">#ff607d8b</item>
+    </style>
+
+    <style name="Theme.Telecom.BlockedNumbers" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#ff607d8b</item>
+        <item name="android:colorPrimaryDark">#ff607d8b</item>
+        <item name="android:colorAccent">#ff607d8b</item>
+    </style>
+</resources>

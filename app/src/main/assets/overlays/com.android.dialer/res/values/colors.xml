@@ -71,7 +71,6 @@
     <color name="incall_background_color">#ff303030</color>
     <color name="dialpad_digits_text_color">#ffffff</color>
     <color name="incall_dialpad_background">#ff303030</color>
-
     <color name="contact_context_title_text_color">#ffffffff</color>
     <color name="person_contact_context_message_text_color">#ffffffff</color>
     <color name="person_contact_context_message_background_color">#ff303030</color>

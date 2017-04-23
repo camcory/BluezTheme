@@ -14,10 +14,14 @@
     <color name="chooser_service_row_background_color">#ff303030</color>
     <color name="system_bar_background_semi_transparent">#00000000</color>
 
+    <!-- Colors device defaults -->
+    <color name="primary_device_default_settings">#ff303030</color>
+    <color name="secondary_device_default_settings">#ff424242</color>
+
     <!-- Colors material -->
     <color name="background_material_dark">#ff303030</color>
     <color name="background_floating_material_dark">#ff303030</color>
-    <color name="primary_material_dark">#ff607d8b</color>
+    <color name="primary_material_dark">#ff303030</color>
     <color name="accent_material_dark">#ff607d8b</color>
     <color name="material_deep_teal_200">#ff607d8b</color>
     <color name="material_deep_teal_500">#ff607d8b</color>

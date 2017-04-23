@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Dashboard padding in its container -->
-    <dimen name="dashboard_padding_start">10dp</dimen>
-    <dimen name="dashboard_padding_end">10dp</dimen>
+    <dimen name="dashboard_padding_start">12dp</dimen>
+    <dimen name="dashboard_padding_end">12dp</dimen>
+    <dimen name="dashboard_padding_top">12dp</dimen>
+    <dimen name="dashboard_padding_bottom">12dp</dimen>
 </resources>

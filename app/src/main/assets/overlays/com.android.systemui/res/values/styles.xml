@@ -38,4 +38,8 @@
         <item name="android:textColor">#ffffff</item>
     </style>
 
+    <style name="edit_theme" parent="@*android:style/Theme.DeviceDefault.Settings.Dark">
+        <item name="android:colorBackground">#ff303030</item>
+    </style>
+
 </resources>

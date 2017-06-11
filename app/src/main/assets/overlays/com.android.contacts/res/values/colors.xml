@@ -4,11 +4,11 @@
     <color name="quickcontact_name_detail_background">#ffffff</color>
     <color name="quickcontact_entry_sub_header_text_color">#ffffff</color>
     <color name="quickcontact_entry_header_text_color">#ffffff</color>
-    <color name="action_bar_background">#ff607d8b</color>
-    <color name="actionbar_background_color">#ff607d8b</color>
-    <color name="actionbar_background_color_dark">#ff607d8b</color>
-    <color name="primary_color_dark">#ff607d8b</color>
-    <color name="primary_color">#ff607d8b</color>
+    <color name="action_bar_background">@*android:color/accent_material_dark</color>
+    <color name="actionbar_background_color">@*android:color/primary_material_dark</color>
+    <color name="actionbar_background_color_dark">@*android:color/primary_dark_material_dark</color>
+    <color name="primary_color_dark">@*android:color/primary_dark_material_dark</color>
+    <color name="primary_color">@*android:color/primary_material_dark</color>
     <color name="expanding_entry_card_item_separator_color">#ffe4e4e4</color>
     <color name="expanding_entry_card_button_text_color">#ffffffff</color>
     <color name="expanding_entry_card_background_color">#303030</color>
@@ -27,7 +27,7 @@
     <color name="contact_all_list_background_color">#303030</color>
     <color name="primary_text_color">#ffffffff</color>
     <color name="people_app_theme_color">#ffffffff</color>
-    <color name="dialtacts_theme_color">#ff607d8b</color>
+    <color name="dialtacts_theme_color">@*android:color/accent_material_dark</color>
     <color name="section_header_text_color">#ffffffff</color>
 
     <!-- exposed colors for contacts -->

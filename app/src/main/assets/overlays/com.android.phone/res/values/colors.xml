@@ -16,19 +16,19 @@
 
 <resources>
     <!-- Telephony -->
-    <color name="people_app_theme_color">#ff607d8b</color>
+    <color name="people_app_theme_color">@*android:color/accent_material_dark</color>
     <color name="phone_settings_background_color">#ff303030</color>
     <color name="phone_settings_actionbar_text_color">#ffffff</color>
-    <color name="actionbar_background_color">#ff607d8b</color>
-    <color name="actionbar_background_color_dark">#ff607d8b</color>
-    <color name="network_operators_color_primary">#ff607d8b</color>
-    <color name="network_operators_color_primary_dark">#ff607d8b</color>
+    <color name="actionbar_background_color">@*android:color/primary_material_dark</color>
+    <color name="actionbar_background_color_dark">@*android:color/primary_dark_material_dark</color>
+    <color name="network_operators_color_primary">@*android:color/primary_material_dark</color>
+    <color name="network_operators_color_primary_dark">@*android:color/primary_dark_material_dark</color>
     <color name="setting_primary_color">#ffffff</color>
     <color name="setting_secondary_color">#ffffff</color>
 
     <!-- Phone Common -->
-    <color name="dialer_theme_color">#ff607d8b</color>
-    <color name="dialer_theme_color_dark">#ff607d8b</color>
+    <color name="dialer_theme_color">@*android:color/primary_material_dark</color>
+    <color name="dialer_theme_color_dark">@*android:color/primary_dark_material_dark</color>
     <color name="background_dialpad">#ff303030</color>
     <color name="dialpad_primary_text_color">#ffffff</color>
     <color name="dialpad_secondary_text_color">#ffffff</color>

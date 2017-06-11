@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="platformSettingsTheme" parent="@android:style/Theme.Material">
-        <item name="android:colorPrimary">#ff607d8b</item>
-        <item name="android:colorPrimaryDark">#ff607d8b</item>
-        <item name="android:colorAccent">#ff607d8b</item>
+        <item name="android:colorPrimary">@*android:color/primary_material_dark</item>
+        <item name="android:colorPrimaryDark">@*android:color/primary_dark_material_dark</item>
+        <item name="android:colorAccent">@*android:color/accent_material_dark</item>
     </style>
     <style name="platformActivityTheme" parent="@android:style/Theme.Material" />
     <style name="platformDialogTheme" parent="@android:style/Theme.Material" />

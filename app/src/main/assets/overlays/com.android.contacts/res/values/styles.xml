@@ -6,7 +6,7 @@
     <style name="BackgroundOnlyTheme" parent="@android:style/Theme.Material" />
 
     <style name="PeopleTheme1" parent="@android:style/Theme.Material">
-        <item name="android:statusBarColor">#ff607d8b</item>
+        <item name="android:statusBarColor">@*android:color/primary_dark_material_dark</item>
         <item name="android:textColorPrimary">#ffffff</item>
     </style>
 
@@ -59,12 +59,12 @@
     <style name="ListViewStyle" parent="@android:style/Widget.Material.ListView" />
 
     <style name="ContactListFilterTheme" parent="@android:Theme.Material">
-        <item name="android:statusBarColor">#ff607d8b</item>
+        <item name="android:statusBarColor">@*android:color/primary_dark_material_dark</item>
     </style>
 
     <style name="CustomContactListFilterView" parent="ContactListFilterTheme">
         <item name="android:layout_width">match_parent</item>
         <item name="android:layout_height">match_parent</item>
-        <item name="android:statusBarColor">#ff607d8b</item>
+        <item name="android:statusBarColor">@*android:color/primary_dark_material_dark</item>
     </style>
 </resources>

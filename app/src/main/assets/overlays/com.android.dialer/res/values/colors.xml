@@ -27,7 +27,7 @@
     <color name="remove_highlighted_text_color">#ffffff</color>
     <color name="call_log_action_text">#ffffff</color>
     <color name="actionbar_icon_color">#ffffff</color>
-    <color name="dialer_dialpad_touch_tint">#ff607d8b</color>
+    <color name="dialer_dialpad_touch_tint">@*android:color/accent_material_dark</color>
     <color name="blocked_number_background">#ff303030</color>
     <color name="blocked_number_primary_text_color">#ffffff</color>
     <color name="blocked_number_secondary_text_color">#ffffff</color>
@@ -50,9 +50,9 @@
     <color name="primary_text_color">#ffffffff</color>
     <color name="section_header_text_color">#ffffffff</color>
     <color name="people_app_theme_color">#ffffffff</color>
-    <color name="dialtacts_theme_color">#ff607d8b</color>
-    <color name="actionbar_background_color">#ff607d8b</color>
-    <color name="actionbar_background_color_dark">#ff607d8b</color>
+    <color name="dialtacts_theme_color">@*android:color/accent_material_dark</color>
+    <color name="actionbar_background_color">@*android:color/primary_material_dark</color>
+    <color name="actionbar_background_color_dark">@*android:color/primary_dark_material_dark</color>
     <color name="searchbox_text_color">#ffffff</color>
     <color name="searchbox_background_color">#303030</color>
     <color name="searchbox_hint_text_color">#80ffffff</color>
@@ -78,8 +78,8 @@
     <color name="business_contact_context_text_color">#ffffffff</color>
 
     <!-- Phone Common -->
-    <color name="dialer_theme_color">#ff607d8b</color>
-    <color name="dialer_theme_color_dark">#ff607d8b</color>
+    <color name="dialer_theme_color">@*android:color/primary_material_dark</color>
+    <color name="dialer_theme_color_dark">@*android:color/primary_dark_material_dark</color>
     <color name="background_dialpad">#ff303030</color>
     <color name="dialpad_primary_text_color">#ffffff</color>
     <color name="dialpad_secondary_text_color">#ffffff</color>

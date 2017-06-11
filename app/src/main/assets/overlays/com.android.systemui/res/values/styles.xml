@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="systemui_theme" parent="@android:style/Theme.Material" />
+    <style name="systemui_theme" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">#303030</item>
+        <item name="android:colorPrimaryDark">#303030</item>
+    </style>
 
     <style name="Theme.SystemUI.Dialog" parent="@android:style/Theme.Material.Dialog" />
 
@@ -38,7 +41,9 @@
         <item name="android:textColor">#ffffff</item>
     </style>
 
-    <style name="edit_theme" parent="@*android:style/Theme.DeviceDefault.Settings.Dark">
+    <style name="edit_theme" parent="@*android:style/Theme.Material">
+        <item name="android:colorPrimary">#303030</item>
+        <item name="android:colorPrimaryDark">#303030</item>
         <item name="android:colorBackground">#ff303030</item>
     </style>
 

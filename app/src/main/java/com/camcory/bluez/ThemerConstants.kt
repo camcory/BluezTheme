@@ -1,4 +1,4 @@
-package substratum.theme.template
+package com.camcory.bluez
 
 object ThemerConstants {
     // Simple AntiPiracy Configuration

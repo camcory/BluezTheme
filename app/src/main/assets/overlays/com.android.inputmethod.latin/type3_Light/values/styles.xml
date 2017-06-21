@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="platformSettingsTheme" parent="@*android:style/Theme.DeviceDefault.Settings">
+        <item name="android:colorPrimary">@*android:color/primary_material_light</item>
+        <item name="android:colorPrimaryDark">@*android:color/primary_dark_material_light</item>
+        <item name="android:colorAccent">@*android:color/accent_material_light</item>
+    </style>
+</resources>

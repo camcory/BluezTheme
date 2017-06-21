@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="system_accent_color">@*android:color/accent_material_light</color>
+    <color name="notification_ripple_untinted_color">@*android:color/accent_material_light</color>
+    <color name="notification_ripple_color_low_priority">@*android:color/accent_material_light</color>
+    <color name="current_user_border_color">@*android:color/accent_material_light</color>
+    <color name="notification_gear_color">@*android:color/accent_material_light</color>
+    <color name="notification_guts_slider_color">@*android:color/accent_material_light</color>
+    <color name="qs_edit_item_decoration_bg">#ff37474f</color>
+</resources>

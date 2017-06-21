@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dialer -->
+    <color name="dialer_dialpad_touch_tint">@*android:color/accent_material_light</color>
+
+    <!-- Contacts Common -->
+    <color name="dialtacts_theme_color">@*android:color/accent_material_light</color>
+    <color name="actionbar_background_color">@*android:color/primary_material_light</color>
+    <color name="actionbar_background_color_dark">@*android:color/primary_dark_material_light</color>
+
+    <!-- Phone Common -->
+    <color name="dialer_theme_color">@*android:color/primary_material_light</color>
+    <color name="dialer_theme_color_dark">@*android:color/primary_dark_material_light</color>
+</resources>

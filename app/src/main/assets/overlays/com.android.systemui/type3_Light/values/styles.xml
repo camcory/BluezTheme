@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="systemui_theme" parent="@*android:style/Theme.DeviceDefault.Settings.Dark">
+        <item name="android:colorPrimary">#ff263238</item>
+        <item name="android:colorPrimaryDark">#ff21272b</item>
+    </style>
+
+    <style name="edit_theme" parent="@*android:style/Theme.DeviceDefault.Settings.Dark">
+        <item name="android:colorPrimary">#ff263238</item>
+        <item name="android:colorPrimaryDark">#ff21272b</item>
+        <item name="android:colorBackground">#ff37474f</item>
+    </style>
+</resources>

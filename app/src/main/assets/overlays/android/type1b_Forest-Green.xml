@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="accent_material_dark">#ff228b22</color>
-    <color name="material_deep_teal_200">#ff228b22</color>
-    <color name="material_deep_teal_500">#ff228b22</color>
+    <color name="accent_material_light">#ff228b22</color>
 </resources>

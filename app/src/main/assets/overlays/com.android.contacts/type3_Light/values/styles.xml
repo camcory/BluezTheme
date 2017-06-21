@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Contacts -->
+    <style name="PeopleTheme1" parent="@*android:style/Theme.Material.Light">
+        <item name="android:statusBarColor">@*android:color/primary_dark_material_light</item>
+    </style>
+
+    <style name="ContactListFilterTheme" parent="@*android:Theme.Material.Light">
+        <item name="android:statusBarColor">@*android:color/primary_dark_material_light</item>
+    </style>
+
+    <style name="CustomContactListFilterView" parent="ContactListFilterTheme">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:statusBarColor">@*android:color/primary_dark_material_light</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.DialogWhenLarge"
+           parent="@android:style/Theme.DeviceDefault.Light.DialogWhenLarge.NoActionBar">
+        <item name="android:colorPrimary">@*android:color/material_grey_100</item>
+        <item name="android:colorPrimaryDark">@*android:color/primary_dark_material_light</item>
+        <item name="android:colorAccent">@*android:color/accent_material_light</item>
+        <item name="android:textAppearanceMedium">@*com.android.packageinstaller:style/MediumText</item>
+        <item name="android:textAppearanceSmall">@*com.android.packageinstaller:style/SmallText</item>
+        <item name="android:titleTextStyle">@*com.android.packageinstaller:style/TitleText</item>
+    </style>
+</resources>

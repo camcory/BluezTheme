@@ -3,6 +3,9 @@
     <color name="primary_material_dark">#ff3367d6</color>
     <color name="primary_dark_material_dark">#ff3367d6</color>
 
+    <color name="primary_material_light">#ff3367d6</color>
+    <color name="primary_dark_material_light">#ff3367d6</color>
+
     <color name="primary_material_settings">#ff3367d6</color>
     <color name="primary_dark_material_settings">#ff3367d6</color>
     <color name="secondary_material_settings">#ff3367d6</color>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors -->
+    <color name="divider_color">#00000000</color>
+    <color name="memory_normal">@*android:color/accent_material_light</color>
+
+    <!-- Exposed colors -->
+    <color name="storage_summary_title_color">@*android:color/accent_material_light</color>
+    <color name="condition_card_background_color">@*android:color/accent_material_light</color>
+    <color name="condition_card_icon_color">#ffffffff</color>
+    <color name="condition_card_title_text_color">#ffffffff</color>
+    <color name="condition_card_expander_color">#ffffffff</color>
+    <color name="condition_card_summary_text_color">#b3ffffff</color>
+    <color name="condition_card_divider_color">#ffffffff</color>
+    <color name="condition_card_first_button_text_color">#ffffffff</color>
+    <color name="condition_card_second_button_text_color">#ffffffff</color>
+    <color name="switchbar_background_color">#ffd2d2d2</color>
+</resources>

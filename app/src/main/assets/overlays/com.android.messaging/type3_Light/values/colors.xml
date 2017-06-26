@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- messaging colors -->
+    <color name="primary_color">@*android:color/accent_material_light</color>
+    <color name="permission_check_activity_background">@*android:color/material_grey_850</color>
+    <color name="action_bar_background_color">@*android:color/primary_material_light</color>
+    <color name="action_bar_background_color_dark">@*android:color/primary_dark_material_light</color>
+    <color name="contextual_action_bar_background_color">@*android:color/primary_material_light</color>
+    <color name="archived_conversation_action_bar_background_color">@*android:color/primary_material_light</color>
+    <color name="archived_conversation_action_bar_background_color_dark">@*android:color/primary_dark_material_light</color>
+    <color name="message_download_failed_status_text">#ffff0000</color>
+    <color name="message_info_text_incoming_download_failed">#ffff0000</color>
+    <color name="message_download_failed_timestamp_text">#ffff0000</color>
+    <color name="message_text_color_incoming_download_failed">#ffff0000</color>
+    <color name="compose_message_send_color">@*android:color/accent_material_light</color>
+    <color name="message_error_bubble_color_incoming">#ff0000</color>
+    <color name="color_filter_base_color">#ff0000</color>
+    <color name="audio_progress_bar_color">@*android:color/accent_material_light</color>
+    <color name="notification_accent_color">@*android:color/accent_material_light</color>
+    <color name="notification_warning_color">#ff0000</color>
+    <color name="people_and_options_list_divider">@*android:color/transparent</color>
+    <color name="fab_color">@*android:color/accent_material_light</color>
+    <color name="mms_indicator_color">@*android:color/accent_material_light</color>
+    <color name="fastscroll_track_color">@*android:color/accent_material_light</color>
+    <color name="fastscroll_thumb_color">@*android:color/accent_material_light</color>
+
+
+    <!-- V7 appcompat colors_material -->
+    <color name="primary_material_light">@*android:color/primary_material_light</color>
+    <color name="primary_dark_material_light">@*android:color/primary_dark_material_light</color>
+    <color name="accent_material_light">@*android:color/primary_material_light</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="all_apps_empty_search_text_color">@*android:color/accent_material_dark</color>
+    <color name="all_apps_search_text_color">@*android:color/accent_material_dark</color>
+
+</resources>

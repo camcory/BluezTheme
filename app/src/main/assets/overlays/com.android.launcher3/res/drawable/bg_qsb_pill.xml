@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@*com.android.launcher3:color/focused_background"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/mask">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white" />
+            <stroke android:width="0.0dip" />
+            <corners android:radius="100.0dip" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#ff303030" />
+            <stroke android:color="@*android:color/white"
+                    android:width="1dp" />
+            <corners android:radius="100.0dip" />
+        </shape>
+    </item>
+</ripple>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Platform.AppCompat.Light" parent="@*android:style/Theme.Material" />
+    <style name="ActionBarTheme" parent="@*android:style/ThemeOverlay.Material.Dark.ActionBar" />
+    <style name="ActionBarPopupTheme" parent="@*android:style/ThemeOverlay.Material" />
+</resources>

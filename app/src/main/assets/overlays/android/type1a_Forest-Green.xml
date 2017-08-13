@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="primary_material_dark">#ff228b22</color>
-    <color name="primary_dark_material_dark">#ff228b22</color>
+    <color name="primary_dark_material_dark">#ff1b6f1b</color>
 
     <color name="primary_material_light">#ff228b22</color>
-    <color name="primary_dark_material_light">#ff228b22</color>
+    <color name="primary_dark_material_light">#ff1b6f1b</color>
 
     <color name="primary_material_settings">#ff228b22</color>
-    <color name="primary_dark_material_settings">#ff228b22</color>
+    <color name="primary_dark_material_settings">#ff1b6f1b</color>
     <color name="secondary_material_settings">#ff228b22</color>
 </resources>
